@@ -53,7 +53,9 @@ body {
     background-color: rgb(18, 172, 18);
     font-size: 22px;
     font-weight: bold;
-    color: black
+    color: black;
+    margin-right:20px;
+    margin-left:50px;
 }
 
 .navbar-nav {
@@ -209,4 +211,5 @@ form input{border:none;border-bottom: 1px solid black;width:100%;}
     animation: slideIn 1s ease-out;
 
 }
+
 
