@@ -25,7 +25,7 @@ body {
     display: flex;
     justify-content: space-between;
     border-radius: 10px;
-    margin-right: 0;
+    margin-right: 20px;
 }
 
 .searchbox input {
@@ -206,4 +206,5 @@ form input{border:none;border-bottom: 1px solid black;width:100%;}
 /* Wrapper for whole content */
 .page-slide {
     animation: slideIn 1s ease-out;
+
 }
