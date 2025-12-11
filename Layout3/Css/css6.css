@@ -54,7 +54,6 @@ body {
     font-size: 22px;
     font-weight: bold;
     color: black;
-    margin-right:30px;
 }
 
 .navbar-nav {
@@ -106,7 +105,7 @@ footer h5 {
     padding-right: 50px;
     margin-bottom: 0;
 }
-.bell{margin-left:50px;margin-right:50px;}
+.bell{margin-left:50px;}
 #login{display: flex;justify-content: center;align-items: center;margin: 100px;flex-direction: column;width:100%}
 form{width: 100%;margin: 0 300px;width:50%;font-size: 22px;}
 form input{border:none;border-bottom: 1px solid black;width:100%;} 
@@ -210,6 +209,7 @@ form input{border:none;border-bottom: 1px solid black;width:100%;}
     animation: slideIn 1s ease-out;
 
 }
+
 
 
 
